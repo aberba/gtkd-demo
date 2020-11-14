@@ -1,0 +1,21 @@
+* {
+	background-color: red;
+}
+
+#container {
+	/*width: 200px;*/
+	padding: 1em;
+	background-color: papayawhip;
+}
+
+#btn {
+	color: #ffffff;
+	background: dodgerblue;
+	border: 1px solid dodgerblue;
+	opacity: 1;
+}
+
+.btn_class {
+	border-radius: 50px;
+	/*color: red;*/
+}

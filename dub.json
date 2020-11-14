@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Lawrence Aberba"
+	],
+	"copyright": "Copyright © 2020, Lawrence Aberba",
+	"dependencies": {
+		"gtk-d": "~>3.9.0"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "demo"
+}
